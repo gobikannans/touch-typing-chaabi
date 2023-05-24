@@ -1,0 +1,72 @@
+.homebg-container{
+    background-color: rgb(42, 46, 50);
+    height: 100vh;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.heading{
+    color: #ffffff;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+.home-container{
+    background-color: rgb(65, 74, 83);
+    height: 30vh;
+    width: 50%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.text-area{
+    color: #ffffff;
+    text-align: center;
+    height: 10vh;
+    width: 80%;
+    font-size: 20px;
+    outline: none;
+    padding-top: 30px;
+}
+
+.key-text-container{
+    background-color:rgb(41, 27, 82);
+    margin-bottom: 30px;
+    width: 50%;
+    text-align: center;
+    border-radius: 15px;
+
+}
+
+.key-text{
+    font-family: "Roboto";
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.values-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+}
+
+.accuracy{
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+}

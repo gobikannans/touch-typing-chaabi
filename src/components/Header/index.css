@@ -1,0 +1,27 @@
+.header-container{
+    background-color: rgb(65, 74, 83);
+    height: 7vh;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.nav-heading{
+    font-family: "Raleway";
+    font-family: 600;
+    padding-left: 30px;
+    color: #ffffff;
+}
+
+.time{
+    font-family: "Raleway";
+    font-family: 800;
+    padding-right: 30px;
+    color: #ffffff;
+    font-size: 25px;
+}
